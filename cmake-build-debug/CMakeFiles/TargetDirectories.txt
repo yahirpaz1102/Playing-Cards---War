@@ -1,0 +1,3 @@
+/Users/yahirpaz/Downloads/CSC 339/PlayingCardClass/cmake-build-debug/CMakeFiles/PlayingCardClass.dir
+/Users/yahirpaz/Downloads/CSC 339/PlayingCardClass/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yahirpaz/Downloads/CSC 339/PlayingCardClass/cmake-build-debug/CMakeFiles/rebuild_cache.dir

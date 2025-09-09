@@ -1,0 +1,7 @@
+# ninja log v6
+6	421	1756349196445247809	CMakeFiles/PlayingCardClass.dir/deck.cpp.o	e08a7ed566d8537f
+3	472	1756348359794729299	CMakeFiles/PlayingCardClass.dir/main.cpp.o	3b34c58a2cfd613a
+3	518	1756348359795023801	CMakeFiles/PlayingCardClass.dir/war.cpp.o	7820a07bb7ae0067
+421	451	1756349196859654019	PlayingCardClass	f7bcbada6c70fbb2
+3	474	1756348359794390505	CMakeFiles/PlayingCardClass.dir/card.cpp.o	e81ad564ec0f3f54
+2	49	1757448219233584653	build.ninja	14c9a83e68b2309a
