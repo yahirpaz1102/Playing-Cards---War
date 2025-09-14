@@ -1,13 +1,13 @@
 # C++ War Card Game
 
-A command-line implementation of the classic card game "War," written in C++. This project simulates a standard 52-card deck, shuffles it, and splits it between a human player and a computer opponent.
+A command line implementation of the classic card game "War," written in C++. This project simulates a standard 52 card deck, shuffles it, and splits it between a human player and a computer opponent.
 
 ## Features
 
--   **Automatic Deck Generation**: Creates a standard 52-card deck.
+-   **Automatic Deck Generation**: Creates a standard 52 card deck.
 -   **Randomized Shuffling**: The deck is thoroughly shuffled before each game.
 -   **Player vs. Computer Gameplay**: Play against an AI opponent.
--   **"War" Scenario Handling**: Correctly manages tie-breakers where both players draw cards of the same value.
+-   **"War" Scenario Handling**: Correctly manages tie breakers where both players draw cards of the same value.
 -   **Interactive Gameplay**: Prompts the player to continue to the next round.
 -   **Clear Score Tracking**: Displays the number of cards each player holds.
 
@@ -40,7 +40,7 @@ To compile and run this project, you will need a C++ compiler like G++/Clang.
 
 ## Code Overview
 
-The project is structured using Object-Oriented principles and is broken down into three main classes.
+The project is structured using Object Oriented principles and is broken down into three main classes.
 
 ### `Card` Class (`card.h`, `card.cpp`)
 
